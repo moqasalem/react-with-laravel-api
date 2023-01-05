@@ -1,6 +1,22 @@
 # react-with-laravel-api
 This project is  a combination of laravel 9 as backend api with react.js as frontend.
-to run this example please follow these few steps:
+# Screen shots
+## Home Page :
+![home](./home.JPG)
+
+## Login page
+![login](./login.JPG)
+
+## Add product Page :
+![add](./add.JPG)
+
+## Search Page :
+![search](./search.JPG)
+
+
+
+
+# To run this example please follow these few steps:
 
 a. frontend : 
 1. install react.js 
